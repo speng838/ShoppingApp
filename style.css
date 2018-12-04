@@ -1,19 +1,19 @@
 #img1{
-    border-width: 1px;
-    border-color: blue;
+    border-width: 10px;
+    border-color: rgb(255, 204, 0);
     border-style: solid;
 }
 
 #img2{
     border-width: 1px;
-    border-color: blue;
+    border-color: rgb(255, 204, 0);
     border-style: solid;
 
 }
 
 #img3{
     border-width: 1px;
-    border-color: blue;
+    border-color:rgb(255, 204, 0);
     border-style: solid;
 
 }
