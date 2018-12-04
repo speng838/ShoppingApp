@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a{
+    width:100px;
+    background-color: gray;
+    display: block;
+    color: #000;
+}
+
+li a:hover{
+
+    background-color: green;
+    color: red;
+
+}
